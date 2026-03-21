@@ -9,6 +9,7 @@ int main() {
     float f;
     double d;
 
+    
     cin >> i >> l >> c >> f >> d;
 
     cout << i << endl;
